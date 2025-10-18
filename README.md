@@ -36,10 +36,10 @@ Players can stand at configured security desks and use a third-eye option to vie
 
 ## Controls (default)
 
-* Arrow keys ? Pan/Tilt
-* Q / E ? Zoom in/out
-* N ? Next camera
-* Backspace ? Exit
+* Arrow keys > Pan/Tilt
+* Q / E > Zoom in/out
+* N > Next camera
+* Backspace > Exit
 
 > Player inputs are fully locked while viewing; only the above controls are read.
 
